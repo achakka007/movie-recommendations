@@ -5,8 +5,10 @@
 #### Content Based Filtering
 Finding similar items to those a user has enjoyed in the past.
 
+
 #### Collaborative Filtering
 Finding similar users.
+
 
 ###### User-based Collaborative Filtering
 Finding users with similar preferences/data and recommending movies that were liked by these other users.
