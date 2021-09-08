@@ -15,3 +15,13 @@
 
 ###### Item-based Collaborative Filtering
 * Finding movies with similar ratings/data and recommending these movies.
+
+## Data Sets
+
+#### Movie Lens
+* https://grouplens.org/datasets/movielens/
+* Used by https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109
+
+#### The Movies Dataset
+* https://www.kaggle.com/rounakbanik/the-movies-dataset
+* Used by https://www.kaggle.com/rounakbanik/movie-recommender-systems
