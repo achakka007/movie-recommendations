@@ -25,3 +25,8 @@
 #### The Movies Dataset
 * https://www.kaggle.com/rounakbanik/the-movies-dataset
 * Used by https://www.kaggle.com/rounakbanik/movie-recommender-systems
+
+#### Movie Recommendation Dataset
+* https://www.kaggle.com/tmdb/tmdb-movie-metadata
+* Used by https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/
+
